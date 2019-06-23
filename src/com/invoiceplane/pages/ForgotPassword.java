@@ -34,6 +34,7 @@ public class ForgotPassword
 
     public void clickReset()
     {
+        // comment
         btnResetPassword.click();
     }
 
